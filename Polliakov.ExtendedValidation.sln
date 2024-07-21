@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polliakov.ExtendedValidation", "Polliakov.ExtendedValidation\Polliakov.ExtendedValidation.csproj", "{48BC764F-32D4-4912-BC2A-36F45E75665E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polliakov.ExtendedValidation.TestApi", "Polliakov.ExtendedValidation.TestApi\Polliakov.ExtendedValidation.TestApi.csproj", "{A4620250-748D-4925-98B5-1C2AF35048C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BC764F-32D4-4912-BC2A-36F45E75665E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BC764F-32D4-4912-BC2A-36F45E75665E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BC764F-32D4-4912-BC2A-36F45E75665E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BC764F-32D4-4912-BC2A-36F45E75665E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4620250-748D-4925-98B5-1C2AF35048C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4620250-748D-4925-98B5-1C2AF35048C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4620250-748D-4925-98B5-1C2AF35048C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4620250-748D-4925-98B5-1C2AF35048C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962668B0-CFA5-431B-853A-9F71442222FD}
+	EndGlobalSection
+EndGlobal
